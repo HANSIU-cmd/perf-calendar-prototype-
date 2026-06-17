@@ -75,7 +75,7 @@ export default function PerformanceCalendar() {
   return (
     <div style={{ fontFamily: "system-ui, -apple-system, sans-serif", color: c.text, lineHeight: 1.6 }}>
       <div style={{ marginBottom: 20 }}>
-        <h1 style={{ fontSize: 20, fontWeight: 600, margin: 0 }}>📌 수행평가 캘린더, 김주완 천재 - Sample</h1>
+        <h1 style={{ fontSize: 20, fontWeight: 600, margin: 0 }}>📌 수행평가 캘린더 - Sample</h1>
         <p style={{ fontSize: 13, color: c.text2, margin: "2px 0 0" }}>1학년 9반 · 총 {items.length}개</p>
       </div>
 
