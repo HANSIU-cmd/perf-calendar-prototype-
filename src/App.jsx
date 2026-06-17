@@ -109,7 +109,7 @@ export default function PerformanceCalendar() {
       </div>
 
       <p style={{ fontSize: 11, color: c.text3, marginTop: 20, textAlign: "center" }}>
-        라이트/다크 모드 자동 · 일정은 관리자만 수정
+        라이트/다크 모드 자동 · 일정은 관리자만 수정 · Design.Made by HANSIU
       </p>
     </div>
   );
